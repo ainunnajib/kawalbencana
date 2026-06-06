@@ -42,7 +42,26 @@
       "mcp__chrome-devtools__performance_start_trace",
       "mcp__chrome-devtools__performance_analyze_insight",
       "Bash(git init:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "mcp__chrome-devtools__close_page",
+      "Bash(gh auth status:*)",
+      "Bash(git remote add:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Bash(brew install:*)",
+      "Bash(gh auth login:*)",
+      "WebSearch",
+      "WebFetch(domain:lookup.icann.org)",
+      "WebFetch(domain:www.whois.com)",
+      "Bash(ls:*)",
+      "Bash(done)",
+      "mcp__chrome-devtools__handle_dialog",
+      "Bash(while read pdf)",
+      "Bash(do strings:*)",
+      "Bash(echo:*)",
+      "Bash(strings:*)",
+      "Bash(xargs -I {} sh -c 'strings \"\"{}\"\" 2>/dev/null | grep -i \"\"I\\\\.R\\\\.B\\\\|IRB LAW\"\" && echo \"\"=== {} ===\"\"')"
     ]
   }
 }
